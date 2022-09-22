@@ -19,7 +19,7 @@ def mailExtractor(searchh, pageNumber):
                     f.writelines(i + "\n")
                     print(i)
         print("\n--> Results saved in 'mail.txt' file..")
-        print("--> Happy Hacking...")
+        print("--> Happy Hacking.we are anonymous..")
     except:
         print(" incorrect Entry!!!")
         mailExtractor(searchh=input("(ex:business newyork '@gmail.com' site:instagram.com)\nEnter \t:"),
