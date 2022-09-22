@@ -8,7 +8,7 @@
 #### Version 1.0.0
 
 
-Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
+Instagram: [TMRSWRR](https://www.instagram.com/)
 
 
 
@@ -26,7 +26,7 @@ Saves the email addresses it collects to the mail.txt file, you can write dork s
 
 
 ```bash
-git clone https://github.com/capture0x/mailExtractor/
+git clone https://github.com/trhacknon/mailExtractor/
 cd mailExtractor
 chmod -R 755 mailtopla.py
 ```
@@ -45,6 +45,6 @@ page number:60
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/mailExtractor/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/trhacknon/mailExtractor/issues) here.
 
 **Copyright 2020**
