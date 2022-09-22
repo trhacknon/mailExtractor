@@ -4,7 +4,7 @@
 
 
 
-#### Written by TMRSWRR
+#### modded by trhacknon
 #### Version 1.0.0
 
 
